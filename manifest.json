@@ -1,0 +1,15 @@
+{
+  "name": "Poruszenie - Joga",
+  "short_name": "Poruszenie",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#262E2A",
+  "background_color": "#262E2A",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "256x256 128x128 64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
