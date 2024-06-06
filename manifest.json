@@ -1,10 +1,10 @@
 {
-  "name": "Poruszenie - Joga",
-  "short_name": "Poruszenie",
+  "name": "Full-stack Developer - Łukasz Kozak",
+  "short_name": "Full-stack Developer",
   "start_url": "./index.html",
   "display": "standalone",
-  "theme_color": "#262E2A",
-  "background_color": "#262E2A",
+  "theme_color": "#FEF2D8",
+  "background_color": "#FEF2D8",
   "icons": [
     {
       "src": "favicon.ico",
