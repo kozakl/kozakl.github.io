@@ -3,7 +3,7 @@ User-agent: *
 Allow: /
 
 # Host
-Host: 
+Host: https://kozakl.github.io/
 
 # Sitemaps
-Sitemap: /sitemap.xml
+Sitemap: https://kozakl.github.io/sitemap.xml
