@@ -4,3 +4,6 @@
 	<ellipse fill="none" stroke="#61DAFB" stroke-width="17.5" transform="matrix(0.866 -0.5 0.5 0.866 -187.405 324.595)" cx="512" cy="512" rx="97.7" ry="256"/>
 	<ellipse fill="none" stroke="#61DAFB" stroke-width="17.5" transform="matrix(0.5 -0.866 0.866 0.5 -187.405 699.405)" cx="512" cy="512" rx="256" ry="97.7"/>
 </svg>
+Cache-Control: max-age=604800
+Cache-Control: max-age=604800
+Cache-Control: max-age=31536000
